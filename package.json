@@ -1,0 +1,24 @@
+{
+  "name": "tailwind-jsx-react",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "babel-preset-react": "6.24.1 - latest",
+    "emotion": "9.2.12 - latest",
+    "react": "16.5.2 - latest",
+    "react-dom": "16.5.2 - latest",
+    "react-emotion": "9.2.12 - latest",
+    "tailwindcss-jsx": "0.0.19"
+  },
+  "devDependencies": {
+    "@types/react": "16.4.14",
+    "@types/react-dom": "16.0.8",
+    "parcel-bundler": "^1.6.1"
+  },
+  "keywords": []
+}
